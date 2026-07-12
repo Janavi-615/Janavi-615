@@ -1,40 +1,29 @@
-<h1 align="center">Hi 👋, I'm Sree Janavi</h1>
+<div align="center">
 
-<h3 align="center">
-  🤖 Aspiring AI/ML Engineer | 💻 Developer | 🚀 Building Intelligent Solutions
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sree%20Janavi&fontSize=55&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Developer&descAlignY=58&animation=fadeIn"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=700&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Exploring+Generative+AI+%E2%9C%A8;Building+Intelligent+Solutions+%F0%9F%9A%80" />
+
+</div>
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE student specializing in Artificial Intelligence & Machine Learning
-- 🛰️ Completed an internship at NRSC – ISRO
-- 🤖 Interested in AI, Machine Learning and Generative AI
-- 🔭 Currently building AI-powered applications
-- 🌱 Strengthening my skills in Python, DSA and AI/ML
+<div align="center">
+
+🎓 B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**  
+🛰️ Completed an internship at **NRSC – ISRO**  
+🤖 Building **AI-powered applications with real-world impact**  
+🧠 Exploring **Generative AI, RAG & Machine Learning**  
+🚀 Growing toward a career as an **AI/ML Engineer**
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,git,github,vscode" />
 
-## 🚀 What I'm Building
-
-⚖️ **Legal Contract Q&A Assistant**  
-AI-powered RAG application for querying and understanding legal contracts.
-
-💧 **Urban Water Distribution Digital Twin**  
-Data-driven system for simulating and analyzing urban water distribution.
-
-🛰️ **NRSC – ISRO Outreach Application**  
-Web application developed during my internship experience.
-
----
-
-<h3 align="center">✨ Turning ideas into intelligent solutions ✨</h3>
+</div>
