@@ -1,6 +1,18 @@
-# Hi 👋, I'm Sree Janavi
+<h1 align="center">Hi 👋, I'm Sree Janavi</h1>
 
-### 🤖 Aspiring AI/ML Engineer | 💻 Developer | 🚀 Building Intelligent Solutions
+<h3 align="center">
+  🤖 Aspiring AI/ML Engineer | 💻 Developer | 🚀 Building Intelligent Solutions
+</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE student specializing in Artificial Intelligence & Machine Learning
+- 🛰️ Completed an internship at NRSC – ISRO
+- 🤖 Interested in AI, Machine Learning and Generative AI
+- 🔭 Currently building AI-powered applications
+- 🌱 Strengthening my skills in Python, DSA and AI/ML
 
 ---
 
@@ -10,18 +22,19 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janavi-615&show_icons=true&theme=tokyonight" />
-</p>
+## 🚀 What I'm Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janavi-615&layout=compact&theme=tokyonight" />
-</p>
+⚖️ **Legal Contract Q&A Assistant**  
+AI-powered RAG application for querying and understanding legal contracts.
 
-## 🔥 Contribution Streak
+💧 **Urban Water Distribution Digital Twin**  
+Data-driven system for simulating and analyzing urban water distribution.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Janavi-615&theme=tokyonight" />
-</p>
+🛰️ **NRSC – ISRO Outreach Application**  
+Web application developed during my internship experience.
+
+---
+
+<h3 align="center">✨ Turning ideas into intelligent solutions ✨</h3>
