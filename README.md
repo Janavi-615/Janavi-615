@@ -1,58 +1,27 @@
-# Hi, I'm Sree Janavi 👋
+# Hi 👋, I'm Sree Janavi
 
-🎓 B.Tech Computer Science Engineering student specializing in  
-**Artificial Intelligence & Machine Learning**
+### 🤖 Aspiring AI/ML Engineer | 💻 Developer | 🚀 Building Intelligent Solutions
 
-💡 I'm passionate about building practical AI-powered applications
-and solving real-world problems using technology.
-
-## 🚀 About Me
-
-- 🤖 Aspiring AI/ML Engineer
-- 💻 Interested in Artificial Intelligence, Machine Learning & Full Stack Development
-- 🛰️ Completed an internship at NRSC – ISRO
-- 🔭 Currently working on AI-powered applications
-- 🌱 Currently strengthening my skills in Python, AI/ML and Data Analytics
-- 🎯 Goal: Build impactful technology and grow as an AI/ML Engineer
+---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • Java • SQL • R • HTML • CSS • JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,git,github,vscode" />
+</p>
 
-**AI & Data:** Machine Learning • Pandas • NumPy • Matplotlib • FAISS • Sentence Transformers
+## 📊 GitHub Stats
 
-**Development:** React • Flask • Git • GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Janavi-615&show_icons=true&theme=tokyonight" />
+</p>
 
-**Tools & Platforms:** Jupyter Notebook • VS Code • Supabase
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janavi-615&layout=compact&theme=tokyonight" />
+</p>
 
-## 🚀 Featured Projects
+## 🔥 Contribution Streak
 
-### ⚖️ Legal Contract Q&A Assistant
-An AI-powered application that allows users to upload legal contracts,
-ask questions, and receive context-aware answers using semantic search and AI.
-
-**Tech:** React • Python • Sentence Transformers • FAISS • Gemini • Supabase
-
-### 💧 Urban Water Distribution Digital Twin
-A data-driven digital twin system designed to simulate and analyze
-urban water distribution using flexible CSV datasets.
-
-**Tech:** Python • Flask • React • Data Analytics
-
-### 🛰️ NRSC – ISRO Outreach Application
-A web-based application developed during my internship experience
-for the NRSC – ISRO Outreach Facility.
-
-**Tech:** HTML • CSS • JavaScript
-
-## 📊 Currently Working On
-
-- Improving my Data Structures & Algorithms skills
-- Building strong AI/ML projects
-- Exploring Generative AI and RAG applications
-- Preparing for software and AI/ML engineering opportunities
-
-## 🤝 Connect With Me
-
-
-- 📧 Email: mail2sreejanavi@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Janavi-615&theme=tokyonight" />
+</p>
